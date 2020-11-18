@@ -27,3 +27,14 @@ section {
 .flex-one {
     flex:1
 }
+
+/* Part 2, section 7 */
+.align-center {
+    align-items: center;
+}
+.center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
