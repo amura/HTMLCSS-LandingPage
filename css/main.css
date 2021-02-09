@@ -42,4 +42,39 @@ section {
 
 .btn {
     cursor: pointer;
+    border: 0;
+    padding: 6px 12px;    
+    line-height: 1.4;
+    border-radius: 3px;
+}
+
+.btn-default     {
+    color: white;
+    background-color: #faa541;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #364147;
+}
+
+.form-control {
+    display: block;
+    padding: 6px 12px;
+    border: solid 1.4em #a0a0a0a0;
+    color:#8598a2;
+}
+
+.text-light {
+    font-size: 30px;
+    color: #a0a0a0
+}
+
+.text-secondary {
+    font-size: 30px;
+    color: #faa541;
+}
+
+.text-primary {
+
 }
