@@ -32,9 +32,14 @@ section {
 .align-center {
     align-items: center;
 }
-.center{
+
+.center {
     justify-content: center;
 }
-.space-between{
+.space-between {
     justify-content: space-between;
+}
+
+.btn {
+    cursor: pointer;
 }
